@@ -515,6 +515,7 @@
 <outline type="rss" text="Taylor Troesh" title="Taylor Troesh" xmlUrl="https://taylor.town/feed.xml" htmlUrl="https://taylor.town/"/>
 <outline type="rss" text="Hexops' devlog" title="Hexops' devlog" xmlUrl="https://devlog.hexops.com/feed.xml" htmlUrl="https://devlog.hexops.com/"/>
 <outline type="rss" text="Max Bernstein's Blog" title="Max Bernstein's Blog" xmlUrl="https://bernsteinbear.com/feed.xml" htmlUrl="https://bernsteinbear.com/"/>
+<outline type="rss" text="Daniel Lemire's blog" title="Daniel Lemire's blog" xmlUrl="https://lemire.me/blog/feed/" htmlUrl="https://lemire.me/blog/"/>
 <outline type="rss" text="Last9" title="Last9" xmlUrl="https://last9.io/rss.xml" htmlUrl="https://last9.io/blog/"/></outline>
 </body>
 </opml>
