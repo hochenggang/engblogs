@@ -513,7 +513,6 @@
 <outline type="rss" text="Tania Rascia" title="Tania Rascia" xmlUrl="https://tania.dev/rss.xml" htmlUrl="https://tania.dev/"/>
 <outline type="rss" text="Swizec Teller" title="Swizec Teller" xmlUrl="https://swizec.com/blog/feed" htmlUrl="https://swizec.com/blog/"/>
 <outline type="rss" text="Taylor Troesh" title="Taylor Troesh" xmlUrl="https://taylor.town/feed.xml" htmlUrl="https://taylor.town/"/>
-<outline type="rss" text="Last9" title="Last9" xmlUrl="https://last9.io/rss.xml" htmlUrl="https://last9.io/blog/"/>
-
+<outline type="rss" text="Last9" title="Last9" xmlUrl="https://last9.io/rss.xml" htmlUrl="https://last9.io/blog/"/></outline>
 </body>
 </opml>
