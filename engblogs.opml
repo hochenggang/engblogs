@@ -191,7 +191,6 @@
 <outline type="rss" text="Kogan.com" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS" htmlUrl="https://devblog.kogan.com/"/>
 <outline type="rss" text="Medium" title="Medium" xmlUrl="https://medium.engineering/feed" htmlUrl="https://medium.com/medium-eng"/>
 <outline type="rss" text="PullReview" title="PullReview" xmlUrl="http://blog.8thcolor.com/feed.xml" htmlUrl="http://blog.8thcolor.com/"/>
-<outline type="rss" text="NPR Apps" title="NPR Apps" xmlUrl="http://blog.apps.npr.org/atom.xml" htmlUrl="http://blog.apps.npr.org/"/>
 <outline type="rss" text="New York Times" title="New York Times" xmlUrl="https://open.nytimes.com/feed" htmlUrl="https://open.blogs.nytimes.com"/>
 <outline type="rss" text="Nextdoor" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed" htmlUrl="https://engblog.nextdoor.com/"/>
 <outline type="rss" text="Airbrake" title="Airbrake" xmlUrl="https://airbrake.io/blog/feed" htmlUrl="https://airbrake.io/blog/"/>
