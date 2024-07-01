@@ -517,7 +517,7 @@
 <outline type="rss" text="Daniel Lemire's blog" title="Daniel Lemire's blog" xmlUrl="https://lemire.me/blog/feed/" htmlUrl="https://lemire.me/blog/"/>
 <outline type="rss" text="Recent content on Tom's Blog" title="Tom's Blog" xmlUrl="https://gagor.pro/index.xml" htmlUrl="https://gagor.pro/"/>
 <outline type="rss" text="ACM TechNews" title="ACM TechNews" xmlUrl="https://rss.acm.org/technews/TechNews.xml" htmlUrl="https://technews.acm.org/"/>
-<outline type="rss" text="Serving the Technologist for more than a decade. IT news, reviews, and analysis." title="Features – Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/features" htmlUrl="https://arstechnica.com/"/>
+<outline type="rss" text="Serving the Technologist for more than a decade. IT news, reviews, and analysis." title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/technology-lab" htmlUrl="https://arstechnica.com/"/>
 <outline type="rss" text="Better Dev Link - Resource around the web on becoming a better programmer, published every Monday and sent directly to your inbox." title="Better Dev Link" xmlUrl="https://betterdev.link/rss.xml" htmlUrl="https://betterdev.link/"/>
 <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/" htmlUrl="https://www.technologyreview.com/"/>
 <outline type="rss" text="Last9" title="Last9" xmlUrl="https://last9.io/rss.xml" htmlUrl="https://last9.io/blog/"/></outline>
