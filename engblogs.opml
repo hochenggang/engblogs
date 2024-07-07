@@ -60,7 +60,7 @@
 <outline type="rss" title="Ilya Grigorik" xmlUrl="https://ilya.grigorik.com/essays/rss/"/>
 <outline type="rss" title="Ilija Eftimov" xmlUrl="http://ieftimov.com/index.xml"/>
 <outline type="rss" title="Ievgen Kuzminov" xmlUrl="http://stdout.in/en/cat/all.rss"/>
-<outline type="rss" title="Idontgetoutmuch's Weblog" xmlUrl="https://idontgetoutmuch.wordpress.com/feed/"/>
+<outline type="rss" title="Idontgetoutmuch&apos;s Weblog" xmlUrl="https://idontgetoutmuch.wordpress.com/feed/"/>
 <outline type="rss" title="High Scalability" xmlUrl="https://highscalability.com/rss/"/>
 <outline type="rss" title="Hayden James" xmlUrl="https://haydenjames.io/feed"/>
 <outline type="rss" title="Graham King" xmlUrl="https://www.darkcoding.net/index.xml"/>
@@ -80,7 +80,7 @@
 <outline type="rss" title="Chien Tran" xmlUrl="https://thelazylog.com/rss/"/>
 <outline type="rss" title="Bryan Cantrill" xmlUrl="https://bcantrill.dtrace.org/feed/"/>
 <outline type="rss" title="Brujo Benavides" xmlUrl="https://medium.com/feed/@elbrujohalcon"/>
-<outline type="rss" title="Blundell's Android Tutorials" xmlUrl="https://blog.blundellapps.co.uk/feed/"/>
+<outline type="rss" title="Blundell&apos;s Android Tutorials" xmlUrl="https://blog.blundellapps.co.uk/feed/"/>
 <outline type="rss" title="Bjørn Johansen" xmlUrl="https://www.bjornjohansen.com/feed"/>
 <outline type="rss" title="Bill the Lizard" xmlUrl="https://www.billthelizard.com/feed/"/>
 <outline type="rss" title="Bartlomiej Filipek" xmlUrl="https://www.cppstories.com/index.xml"/>
@@ -117,7 +117,7 @@
 <outline type="rss" title="Soshace" xmlUrl="https://soshace.com/feed/"/>
 <outline type="rss" title="Slack" xmlUrl="https://slack.engineering/rss"/>
 <outline type="rss" title="Skyscanner" xmlUrl="https://medium.com/feed/@SkyscannerEng"/>
-<outline type="rss" title="Sky Betting & Gaming" xmlUrl="https://sbg.technology/feed.xml"/>
+<outline type="rss" title="Sky Betting &amp; Gaming" xmlUrl="https://sbg.technology/feed.xml"/>
 <outline type="rss" title="SitePoint" xmlUrl="https://sitepoint.com/sitepoint.rss"/>
 <outline type="rss" title="Shopify" xmlUrl="https://shopify.engineering/blog.atom"/>
 <outline type="rss" title="Sharethis" xmlUrl="https://www.sharethis.com/platform/social-feed/"/>
@@ -160,7 +160,7 @@
 <outline type="rss" title="Hootsuite" xmlUrl="https://medium.com/feed/hootsuite-engineering"/>
 <outline type="rss" title="Honeybadger" xmlUrl="http://blog.honeybadger.io/blog/feed.xml"/>
 <outline type="rss" title="Heroku" xmlUrl="https://blog.heroku.com/engineering"/>
-<outline type="rss" title="Harry's" xmlUrl="https://medium.com/feed/harrys-engineering"/>
+<outline type="rss" title="Harry&apos;s" xmlUrl="https://medium.com/feed/harrys-engineering"/>
 <outline type="rss" title="Haptik" xmlUrl="https://www.haptik.ai/tech/rss.xml"/>
 <outline type="rss" title="Guardian" xmlUrl="https://www.theguardian.com/info/developer-blog/rss"/>
 <outline type="rss" title="Groupon" xmlUrl="https://medium.com/feed/groupon-eng"/>
@@ -416,7 +416,7 @@
 <outline type="rss" title="Spotify" xmlUrl="https://labs.spotify.com/feed/"/>
 <outline type="rss" title="Stride" xmlUrl="https://www.stridenyc.com/blog/rss.xml"/>
 <outline type="rss" title="Raizlabs" xmlUrl="https://www.raizlabs.com/dev/feed/"/>
-<outline type="rss" title="Sky Betting & Gaming" xmlUrl="https://technology.skybettingandgaming.com/feed.xml"/>
+<outline type="rss" title="Sky Betting &amp; Gaming" xmlUrl="https://technology.skybettingandgaming.com/feed.xml"/>
 <outline type="rss" title="OpenDNS" xmlUrl="https://umbrella.cisco.com/blog/feed/"/>
 <outline type="rss" title="SurveyMonkey" xmlUrl="https://www.surveymonkey.com/feed/"/>
 <outline type="rss" title="REA Group" xmlUrl="https://www.rea-group.com/category/tech/feed/"/>
@@ -710,10 +710,10 @@
 <outline type="rss" title="Tania Rascia" xmlUrl="https://tania.dev/rss.xml"/>
 <outline type="rss" title="Swizec Teller" xmlUrl="https://swizec.com/blog/feed"/>
 <outline type="rss" title="Taylor Troesh" xmlUrl="https://taylor.town/feed.xml"/>
-<outline type="rss" title="Hexops' devlog" xmlUrl="https://devlog.hexops.com/feed.xml"/>
-<outline type="rss" title="Max Bernstein's Blog" xmlUrl="https://bernsteinbear.com/feed.xml"/>
-<outline type="rss" title="Daniel Lemire's blog" xmlUrl="https://lemire.me/blog/feed/"/>
-<outline type="rss" title="Tom's Blog" xmlUrl="https://gagor.pro/index.xml"/>
+<outline type="rss" title="Hexops&apos; devlog" xmlUrl="https://devlog.hexops.com/feed.xml"/>
+<outline type="rss" title="Max Bernstein&apos;s Blog" xmlUrl="https://bernsteinbear.com/feed.xml"/>
+<outline type="rss" title="Daniel Lemire&apos;s blog" xmlUrl="https://lemire.me/blog/feed/"/>
+<outline type="rss" title="Tom&apos;s Blog" xmlUrl="https://gagor.pro/index.xml"/>
 <outline type="rss" title="ACM TechNews" xmlUrl="https://rss.acm.org/technews/TechNews.xml"/>
 <outline type="rss" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/technology-lab"/>
 <outline type="rss" title="Better Dev Link" xmlUrl="https://betterdev.link/rss.xml"/>
