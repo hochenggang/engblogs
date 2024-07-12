@@ -707,5 +707,13 @@
 <outline type="rss" title="Better Dev Link" xmlUrl="https://betterdev.link/rss.xml"/>
 <outline type="rss" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/"/>
 <outline type="rss" title="Last9" xmlUrl="https://last9.io/rss.xml"/>
+<outline type="rss" title="Jason Polak" xmlUrl="https://medium.com/feed/@jpolak"/>
+<outline type="rss" title="Md Faizan Alam" xmlUrl="https://medium.com/feed/@faizan711"/>
+<outline type="rss" title="https://linuxiac.com/feed/" xmlUrl="https://linuxiac.com/feed/"/>
+<outline type="rss" title="Tommi Hovi" xmlUrl="https://tommihovi.com/feed/"/>
+<outline type="rss" title="Maciej Walkowiak" xmlUrl="https://maciejwalkowiak.com/rss.xml"/>
+<outline type="rss" title="Ben Hoyt" xmlUrl="https://benhoyt.com/writings/rss.xml"/>
+<outline type="rss" title="The Roots of Progress" xmlUrl="https://blog.rootsofprogress.org/feed.xml"/>
+<outline type="rss" title="Kilian Valkhof" xmlUrl="https://feeds.feedburner.com/Kilianvalkhofcom"/>
 </body>
 </opml>
