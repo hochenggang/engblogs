@@ -714,5 +714,15 @@
 <outline type="rss" title="Ben Hoyt" xmlUrl="https://benhoyt.com/writings/rss.xml"/>
 <outline type="rss" title="The Roots of Progress" xmlUrl="https://blog.rootsofprogress.org/feed.xml"/>
 <outline type="rss" title="Kilian Valkhof" xmlUrl="https://feeds.feedburner.com/Kilianvalkhofcom"/>
+<outline type="rss" title="Aaron Swartz" xmlUrl="http://www.aaronsw.com/weblog/index.xml"/>
+<outline type="rss" title="sbensu" xmlUrl="https://blog.sbensu.com/feed"/>
+<outline type="rss" title="The Codist" xmlUrl="https://thecodist.com/rss/"/>
+<outline type="rss" title="Charles Féval" xmlUrl="https://fev.al/feed.xml"/>
+<outline type="rss" title="Simon Willison&apos;s Weblog" xmlUrl="https://simonwillison.net/atom/entries/"/>
+<outline type="rss" title="Sam Rose" xmlUrl="https://samwho.dev/rss.xml"/>
+<outline type="rss" title="Amazing CTO" xmlUrl="https://www.amazingcto.com/feed.xml"/>
+<outline type="rss" title="Hillel Wayne" xmlUrl="https://www.hillelwayne.com/index.xml"/>
+<outline type="rss" title="Jekyll" xmlUrl="https://thasso.xyz/feed"/>
+<outline type="rss" title="Bessey&apos;s Blog" xmlUrl="https://bessey.dev/feed"/>
 </body>
 </opml>
