@@ -52,7 +52,7 @@ def process_file(file_path, auth_token):
         headers=headers
     )
     response_bad.raise_for_status()
-    bad_urls = response_bad.json().get('bad_urls', [])
+    bad_urls = response_bad.json()
 
     # 更新 OPML 数据
     if bad_urls:
