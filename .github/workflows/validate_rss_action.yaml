@@ -26,13 +26,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}  # 这里引入自定义 Secret
         run: |
-          python .github/scripts/validate_rss.py
+          python validate_rss.py
 
       - name: Commit changes
         if: success()
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add engblogs.opml
-          git commit -m "unable request by zh,us,hk"
+          # 获取被移除项的数量
+          num_removed=$(git diff --word-diff=porcelain | grep -c '^-.*xmlUrl=')
+          git add engblogs.opml cngblogs.opml
+          git commit -m "已移除 $num_removed 项无法访问的订阅"
           git push
