@@ -33,8 +33,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          # 获取被移除项的数量
-          num_removed=$(git diff --word-diff=porcelain | grep -c '^-.*xmlUrl=')
-          git add engblogs.opml cngblogs.opml
-          git commit -m "已移除 $num_removed 项无法访问的订阅"
+          git add engblogs.opml cngblogs.opml engblogs_status.md cngblogs_status.md
+          git commit -m "自动状态更新 $(date '+%Y-%m-%d')"
           git push
