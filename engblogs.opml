@@ -591,5 +591,6 @@
 		<outline type="rss" title="Jekyll" xmlUrl="https://thasso.xyz/feed"></outline>
 		<outline type="rss" title="Bessey's Blog" xmlUrl="https://bessey.dev/feed"></outline>
 		<outline type="rss" title="Luc van Donkersgoed" xmlUrl="https://lucvandonkersgoed.com/feed/"></outline>
+		<outline type="rss" title="Josh Comeau's blog" xmlUrl="https://www.joshwcomeau.com/rss.xml"></outline>
 	</body>
 </opml>
