@@ -1,0 +1,38 @@
+name: Validate RSS Feeds
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天运行一次
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  validate-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests xmltodict
+
+      - name: Run validation script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}  # 这里引入自定义 Secret
+        run: |
+          python .github/scripts/validate_rss.py
+
+      - name: Commit changes
+        if: success()
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add engblogs.opml
+          git commit -m "unable request by zh,us,hk"
+          git push
