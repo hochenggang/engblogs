@@ -593,5 +593,8 @@
 		<outline type="rss" title="Luc van Donkersgoed" xmlUrl="https://lucvandonkersgoed.com/feed/"></outline>
 		<outline type="rss" title="Josh Comeau's blog" xmlUrl="https://www.joshwcomeau.com/rss.xml"></outline>
 		<outline type="rss" title="Ugur" xmlUrl="https://www.rugu.dev/en/index.xml"></outline>
+		<outline type="rss" title="Ahmad Alfy" xmlUrl="https://alfy.blog/feed.xml"></outline>
+		<outline type="rss" title="Zsolt Ero" xmlUrl="https://blog.hyperknot.com/feed"></outline>
+		<outline type="rss" title="Vincent" xmlUrl="https://medium.com/@vincentlambert0/feed"></outline>
 	</body>
 </opml>
