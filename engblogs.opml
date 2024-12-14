@@ -592,5 +592,6 @@
 		<outline type="rss" title="Bessey's Blog" xmlUrl="https://bessey.dev/feed"></outline>
 		<outline type="rss" title="Luc van Donkersgoed" xmlUrl="https://lucvandonkersgoed.com/feed/"></outline>
 		<outline type="rss" title="Josh Comeau's blog" xmlUrl="https://www.joshwcomeau.com/rss.xml"></outline>
+		<outline type="rss" title="Ugur" xmlUrl="https://www.rugu.dev/en/index.xml"></outline>
 	</body>
 </opml>
