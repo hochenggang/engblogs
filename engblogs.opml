@@ -236,7 +236,6 @@
 		<outline type="rss" title="Envato" xmlUrl="https://webuild.envato.com/atom.xml"></outline>
 		<outline type="rss" title="Crowdfire" xmlUrl="https://crowdfire.engineering/feed"></outline>
 		<outline type="rss" title="Codeship" xmlUrl="http://blog.codeship.com/feed/"></outline>
-		<outline type="rss" title="Fiftythree" xmlUrl="http://making.fiftythree.com/feed.xml"></outline>
 		<outline type="rss" title="Databricks" xmlUrl="https://databricks.com/feed"></outline>
 		<outline type="rss" title="Badoo" xmlUrl="https://techblog.badoo.com/feed.xml"></outline>
 		<outline type="rss" title="Deezer" xmlUrl="https://deezer.io/feed"></outline>
@@ -300,7 +299,6 @@
 		<outline type="rss" title="Latacora" xmlUrl="https://latacora.micro.blog/feed.xml"></outline>
 		<outline type="rss" title="Mozilla Automation" xmlUrl="http://planet.mozilla.org/ateam/rss20.xml"></outline>
 		<outline type="rss" title="Mixpanel" xmlUrl="https://engineering.mixpanel.com/feed/"></outline>
-		<outline type="rss" title="OpenTable UK" xmlUrl="http://tech.opentable.co.uk/atom.xml"></outline>
 		<outline type="rss" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS"></outline>
 		<outline type="rss" title="Medium" xmlUrl="https://medium.engineering/feed"></outline>
 		<outline type="rss" title="New York Times" xmlUrl="https://open.nytimes.com/feed"></outline>
@@ -328,7 +326,6 @@
 		<outline type="rss" title="Mesosphere" xmlUrl="https://mesosphere.com/feed/"></outline>
 		<outline type="rss" title="Thoughtbot" xmlUrl="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"></outline>
 		<outline type="rss" title="Target" xmlUrl="https://target.github.io/feed.xml"></outline>
-		<outline type="rss" title="TaskRabbit" xmlUrl="http://tech.taskrabbit.com/feed.xml"></outline>
 		<outline type="rss" title="Moove-it" xmlUrl="https://blog.moove-it.com/rss"></outline>
 		<outline type="rss" title="Squarespace" xmlUrl="https://engineering.squarespace.com/blog?format=RSS"></outline>
 		<outline type="rss" title="Toptal" xmlUrl="https://www.toptal.com/blog.rss"></outline>
@@ -398,7 +395,6 @@
 		<outline type="rss" title="Eddie Smith" xmlUrl="http://www.practicallyefficient.com/feed.xml"></outline>
 		<outline type="rss" title="Domenico Luciani" xmlUrl="https://domenicoluciani.com/feed.xml"></outline>
 		<outline type="rss" title="Andrew Ray" xmlUrl="http://blog.andrewray.me/rss/"></outline>
-		<outline type="rss" title="Deborah Digges" xmlUrl="http://deborah-digges.github.io/atom.xml"></outline>
 		<outline type="rss" title="Dennis Yurichev" xmlUrl="https://yurichev.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Edward Faulkner" xmlUrl="https://eaf4.com/rss"></outline>
 		<outline type="rss" title="Filippo Valsorda" xmlUrl="https://blog.filippo.io/rss/"></outline>
@@ -456,7 +452,6 @@
 		<outline type="rss" title="Lambda the Ultimate" xmlUrl="http://lambda-the-ultimate.org/rss.xml"></outline>
 		<outline type="rss" title="Marek Majkowski" xmlUrl="https://idea.popcount.org/rss.xml"></outline>
 		<outline type="rss" title="Life Plus Linux" xmlUrl="http://lifepluslinux.blogspot.com/feeds/posts/default"></outline>
-		<outline type="rss" title="James Long" xmlUrl="http://feedpress.me/jlongster"></outline>
 		<outline type="rss" title="Larry Land" xmlUrl="http://lg.io/feed.xml"></outline>
 		<outline type="rss" title="Mark Seaborn" xmlUrl="http://lackingrhoticity.blogspot.com/feeds/posts/default"></outline>
 		<outline type="rss" title="Josh Haberman" xmlUrl="http://blog.reverberate.org/feed.xml"></outline>
