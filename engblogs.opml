@@ -345,7 +345,6 @@
 		<outline type="rss" title="Vinted" xmlUrl="http://engineering.vinted.com//atom.xml"></outline>
 		<outline type="rss" title="MongoDB" xmlUrl="https://engineering.mongodb.com/post?format=RSS"></outline>
 		<outline type="rss" title="Twitch" xmlUrl="https://medium.com/feed/twitch-news/tagged/engineering"></outline>
-		<outline type="rss" title="Sqreen" xmlUrl="https://blog.sqreen.io/feed/"></outline>
 		<outline type="rss" title="Soundcloud" xmlUrl="https://developers.soundcloud.com/blog.rss"></outline>
 		<outline type="rss" title="Teamwork" xmlUrl="https://engineroom.teamwork.com/feed"></outline>
 		<outline type="rss" title="Small Improvements" xmlUrl="https://tech.small-improvements.com/rss"></outline>
