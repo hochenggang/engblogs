@@ -2,7 +2,7 @@ name: Validate RSS Feeds
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # 每天运行一次
+    - cron: "0 5 * * 1"  # 每周一运行一次
   workflow_dispatch:  # 支持手动触发
 
 jobs:
@@ -34,5 +34,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add engblogs.opml cngblogs.opml engblogs_status.md cngblogs_status.md
-          git commit -m "自动状态更新 $(date '+%Y-%m-%d')"
+          git commit -m "Auto validated at $(date '+%Y-%m-%d')"
           git push
