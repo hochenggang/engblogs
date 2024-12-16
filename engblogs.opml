@@ -331,7 +331,6 @@
 		<outline type="rss" title="Toptal" xmlUrl="https://www.toptal.com/blog.rss"></outline>
 		<outline type="rss" title="Slack" xmlUrl="https://slack.engineering/feed"></outline>
 		<outline type="rss" title="Trello" xmlUrl="https://tech.trello.com/feed.xml"></outline>
-		<outline type="rss" title="Semaphore CI Engineering" xmlUrl="http://semaphoreci.com/blog/engineering.xml"></outline>
 		<outline type="rss" title="Shopify" xmlUrl="http://engineering.shopify.com/blogs/engineering.atom"></outline>
 		<outline type="rss" title="Transferwise" xmlUrl="https://tech.transferwise.com/rss/"></outline>
 		<outline type="rss" title="Stack Overflow" xmlUrl="https://stackoverflow.blog/feed/"></outline>
