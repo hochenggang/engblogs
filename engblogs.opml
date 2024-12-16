@@ -588,5 +588,6 @@
 		<outline type="rss" title="Ahmad Alfy" xmlUrl="https://alfy.blog/feed.xml"></outline>
 		<outline type="rss" title="Zsolt Ero" xmlUrl="https://blog.hyperknot.com/feed"></outline>
 		<outline type="rss" title="Vincent" xmlUrl="https://medium.com/@vincentlambert0/feed"></outline>
+		<outline type="rss" title="Semaphore" xmlUrl="https://semaphoreci.com/feed"></outline>
 	</body>
 </opml>
