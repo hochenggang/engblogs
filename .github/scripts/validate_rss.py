@@ -29,7 +29,7 @@ def render_status_table(status_data, output_file):
         file.write("| --- | --- |\n")
 
         for url, locations in status_data.items():
-            file.write(f"| {url} | {str(locations)} ||\n")
+            file.write(f"| {url} | {str(locations)} |\n")
 
 def process_file(file_path, auth_token):
     """处理单个 OPML 文件"""
