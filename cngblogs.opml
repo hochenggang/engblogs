@@ -906,5 +906,10 @@
 		<outline type="rss" title="月球背面" xmlUrl="https://moonvy.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Nekonull's Garden" xmlUrl="https://nekonull.me/index.xml"></outline>
 		<outline type="rss" title="echoc's blog" xmlUrl="https://echoccc.online/atom.xml"></outline>
+		<outline type="rss" title="电波障害" xmlUrl="https://www.sund.site/index.xml"></outline>
+		<outline type="rss" title="一派胡言" xmlUrl="https://yipai.me/feed"></outline>
+		<outline type="rss" title="WAYJAM's Blog" xmlUrl="https://wayjam.me/index.xml"></outline>
+		<outline type="rss" title="林木木" xmlUrl="https://immmmm.com/feed"></outline>
+		<outline type="rss" title="时光的时光轴" xmlUrl="https://outti.me/feed/xml"></outline>
 	</body>
 </opml>
