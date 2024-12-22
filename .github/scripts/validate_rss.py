@@ -47,7 +47,7 @@ def process_file(file_path, auth_token):
     # 调用 API 获取 URL 状态，接口返回一个 dict[url:points_dict]，points_dict[location:status]，status=是否【最近 7 天，所有的检测点有任意一个成功】
     response_status = requests.post(
         'https://v2.weekly.imhcg.cn/urls/status/', 
-        json={'urls': updated_urls},
+        json={'urls': all_urls},
         headers=headers
     )
     response_status.raise_for_status()
