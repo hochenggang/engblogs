@@ -911,5 +911,7 @@
 		<outline type="rss" title="WAYJAM's Blog" xmlUrl="https://wayjam.me/index.xml"></outline>
 		<outline type="rss" title="林木木" xmlUrl="https://immmmm.com/feed"></outline>
 		<outline type="rss" title="时光的时光轴" xmlUrl="https://outti.me/feed/xml"></outline>
+		<outline type="rss" title="自由庄园" xmlUrl="https://ramsayleung.github.io/zh/index.xml"></outline>
+		<outline type="rss" title="Wei Yen's Blog" xmlUrl="https://weiyen.net/feed/all"></outline>
 	</body>
 </opml>
