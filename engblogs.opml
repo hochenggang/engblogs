@@ -132,7 +132,6 @@
 		<outline type="rss" title="MapTiler" xmlUrl="https://www.maptiler.com/news/feed/posts.xml"></outline>
 		<outline type="rss" title="Made Tech" xmlUrl="https://www.madetech.com/feed/podcast/"></outline>
 		<outline type="rss" title="LINE" xmlUrl="https://engineering.linecorp.com/en/blog"></outline>
-		<outline type="rss" title="Kolosek" xmlUrl="https://kolosek.com/blog/rss/"></outline>
 		<outline type="rss" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=rss"></outline>
 		<outline type="rss" title="Khan Academy" xmlUrl="http://engineering.khanacademy.org/rss"></outline>
 		<outline type="rss" title="Hootsuite" xmlUrl="https://medium.com/feed/hootsuite-engineering"></outline>
@@ -212,7 +211,6 @@
 		<outline type="rss" title="500px" xmlUrl="https://developers.500px.com/feed"></outline>
 		<outline type="rss" title="Blender" xmlUrl="https://code.blender.org/rss"></outline>
 		<outline type="rss" title="CodeName One" xmlUrl="http://www.codenameone.com/feed.xml"></outline>
-		<outline type="rss" title="Airtame" xmlUrl="https://airtame.engineering/feed"></outline>
 		<outline type="rss" title="CleverTap" xmlUrl="https://clevertap.com/blog/tag/engineering/feed/"></outline>
 		<outline type="rss" title="Bandcamp" xmlUrl="https://bandcamptech.wordpress.com/feed/"></outline>
 		<outline type="rss" title="Affinity" xmlUrl="https://build.affinity.co/feed"></outline>
