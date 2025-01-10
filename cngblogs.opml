@@ -904,5 +904,6 @@
 		<outline type="rss" title="熵餘記事" xmlUrl="https://assembly.rip/atom.xml"></outline>
 		<outline type="rss" title="CLCK's Space" xmlUrl="https://www.clckblog.space/blog/rss.xml"></outline>
 		<outline type="rss" title="Oskyla 烹茶室" xmlUrl="https://frytea.com/feed/"></outline>
+		<outline type="rss" title="Indie Maker Hu" xmlUrl="https://javayhu.com/rss/"></outline>
 	</body>
 </opml>
