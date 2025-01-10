@@ -902,5 +902,6 @@
 		<outline type="rss" title="自由庄园" xmlUrl="https://ramsayleung.github.io/zh/index.xml"></outline>
 		<outline type="rss" title="Wei Yen's Blog" xmlUrl="https://weiyen.net/feed/all"></outline>
 		<outline type="rss" title="熵餘記事" xmlUrl="https://assembly.rip/atom.xml"></outline>
+		<outline type="rss" title="CLCK's Space" xmlUrl="https://www.clckblog.space/blog/rss.xml"></outline>
 	</body>
 </opml>
