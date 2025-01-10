@@ -590,5 +590,8 @@
 		<outline type="rss" title="Manuel Spagnolo" xmlUrl="https://shikaan.github.io/feed.xml"></outline>
 		<outline type="rss" title="Ahmad Shadeed" xmlUrl="https://ishadeed.com/feed.xml"></outline>
 		<outline type="rss" title="Ben Rady" xmlUrl="https://feeds.feedburner.com/Radyology"></outline>
+		<outline type="rss" title="Raptitude.com" xmlUrl="https://www.raptitude.com/feed/"></outline>
+		<outline type="rss" title="Max Woolf's Blog" xmlUrl="https://minimaxir.com/post/index.xml"></outline>
+		<outline type="rss" title="blag" xmlUrl="https://avi.im/blag/index.xml"></outline>
 	</body>
 </opml>
