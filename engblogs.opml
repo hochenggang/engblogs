@@ -344,7 +344,6 @@
 		<outline type="rss" title="Timescale" xmlUrl="https://blog.timescale.com/feed"></outline>
 		<outline type="rss" title="Tumblr" xmlUrl="https://engineering.tumblr.com/rss"></outline>
 		<outline type="rss" title="Wealthfront" xmlUrl="http://eng.wealthfront.com/feed/"></outline>
-		<outline type="rss" title="VersionEye" xmlUrl="https://blog.versioneye.com/feed/"></outline>
 		<outline type="rss" title="Upday" xmlUrl="https://upday.github.io/feed.xml"></outline>
 		<outline type="rss" title="Wombat Security Technologies" xmlUrl="http://development.wombatsecurity.com/feed.xml"></outline>
 		<outline type="rss" title="Universe" xmlUrl="https://engineering.universe.com/feed"></outline>
