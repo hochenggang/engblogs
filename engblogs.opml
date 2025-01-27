@@ -252,7 +252,6 @@
 		<outline type="rss" title="Drivy" xmlUrl="https://drivy.engineering/feed.xml"></outline>
 		<outline type="rss" title="Evil Martians" xmlUrl="https://evilmartians.com/chronicles.atom"></outline>
 		<outline type="rss" title="Ebay" xmlUrl="https://www.ebayinc.com/stories/blogs/tech/rss/"></outline>
-		<outline type="rss" title="Firmafon" xmlUrl="https://dev.firmafon.dk/blog/feed.xml"></outline>
 		<outline type="rss" title="Google Online Security" xmlUrl="http://feeds.feedburner.com/GoogleOnlineSecurityBlog"></outline>
 		<outline type="rss" title="Flickr" xmlUrl="http://code.flickr.net/feed/"></outline>
 		<outline type="rss" title="GameChanger" xmlUrl="http://tech.gc.com/atom.xml"></outline>
@@ -510,7 +509,6 @@
 		<outline type="rss" title="Schakko" xmlUrl="https://schakko.de/feed"></outline>
 		<outline type="rss" title="Rudy Huyn" xmlUrl="http://www.rudyhuyn.com/blog/feed/"></outline>
 		<outline type="rss" title="Stephen Colebourne" xmlUrl="http://blog.joda.org/feeds/posts/default"></outline>
-		<outline type="rss" title="Wilfred Hughes" xmlUrl="http://www.wilfred.me.uk/rss.xml"></outline>
 		<outline type="rss" title="The Daily WTF" xmlUrl="http://thedailywtf.com/rss"></outline>
 		<outline type="rss" title="Vanilla Java" xmlUrl="http://vanillajava.blogspot.com/feeds/posts/default"></outline>
 		<outline type="rss" title="Vlad Mihalcea" xmlUrl="https://vladmihalcea.com/feed/"></outline>
