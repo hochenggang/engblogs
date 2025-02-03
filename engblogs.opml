@@ -151,7 +151,6 @@
 		<outline type="rss" title="Envato" xmlUrl="https://webuild.envato.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Ebay" xmlUrl="https://www.ebayinc.com/stories/news/rss/"></outline>
 		<outline type="rss" title="Drivy" xmlUrl="https://getaround.tech/feed.xml"></outline>
-		<outline type="rss" title="DoorDash" xmlUrl="https://doordash.engineering/blog/rss"></outline>
 		<outline type="rss" title="Discord" xmlUrl="https://discord.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Deliveroo" xmlUrl="https://deliveroo.engineering/feed.xml"></outline>
 		<outline type="rss" title="Databricks" xmlUrl="https://www.databricks.com/feed"></outline>
@@ -302,7 +301,6 @@
 		<outline type="rss" title="Microsoft Python Engineering" xmlUrl="http://blogs.msdn.microsoft.com/pythonengineering/feed/"></outline>
 		<outline type="rss" title="Red Hat" xmlUrl="https://developers.redhat.com/blog/feed/atom/"></outline>
 		<outline type="rss" title="Pusher" xmlUrl="https://making.pusher.com/feed.xml"></outline>
-		<outline type="rss" title="Redino" xmlUrl="http://redino.net/blog/feed/"></outline>
 		<outline type="rss" title="RetailMeNot" xmlUrl="https://medium.com/feed/retailmenot-engineering"></outline>
 		<outline type="rss" title="OLX" xmlUrl="https://tech.olx.com/feed"></outline>
 		<outline type="rss" title="Postmark" xmlUrl="https://postmarkapp.com/blog/feed.atom"></outline>
@@ -406,7 +404,6 @@
 		<outline type="rss" title="Erik Runyon" xmlUrl="https://erikrunyon.com/feed.xml"></outline>
 		<outline type="rss" title="Guido van Rossum" xmlUrl="http://neopythonic.blogspot.com/feeds/posts/default"></outline>
 		<outline type="rss" title="Chen Hui Jing" xmlUrl="https://www.chenhuijing.com/feed.xml"></outline>
-		<outline type="rss" title="Hypriot" xmlUrl="https://blog.hypriot.com/index.xml"></outline>
 		<outline type="rss" title="Chris Hager" xmlUrl="https://www.metachris.com/index.xml"></outline>
 		<outline type="rss" title="Itamar Turner-Trauring" xmlUrl="https://codewithoutrules.com/atom.xml"></outline>
 		<outline type="rss" title="Ian Hummel" xmlUrl="https://themodernlife.github.io/feed.xml"></outline>
