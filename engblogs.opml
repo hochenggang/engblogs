@@ -244,7 +244,6 @@
 		<outline type="rss" title="CSC - IT Center For Science - Cloud Team" xmlUrl="https://cloud.blog.csc.fi/feeds/posts/default"></outline>
 		<outline type="rss" title="Discord" xmlUrl="https://blog.discordapp.com/feed"></outline>
 		<outline type="rss" title="Facebook" xmlUrl="https://code.fb.com/feed/"></outline>
-		<outline type="rss" title="Eventbrite" xmlUrl="https://www.eventbrite.com/engineering/feed/"></outline>
 		<outline type="rss" title="Envoy" xmlUrl="https://envoy.engineering/feed"></outline>
 		<outline type="rss" title="Flipboard" xmlUrl="http://engineering.flipboard.com/feed.xml"></outline>
 		<outline type="rss" title="Evernote" xmlUrl="https://evernote.com/blog/feed/"></outline>
@@ -359,7 +358,6 @@
 		<outline type="rss" title="Amit Merchant" xmlUrl="https://www.amitmerchant.com/feed.xml"></outline>
 		<outline type="rss" title="VTS" xmlUrl="https://buildingvts.com/feed"></outline>
 		<outline type="rss" title="Addy Osmani" xmlUrl="http://addyosmani.com/rss.xml"></outline>
-		<outline type="rss" title="Adrian Colyer" xmlUrl="https://blog.acolyer.org/feed/"></outline>
 		<outline type="rss" title="Yelp" xmlUrl="https://engineeringblog.yelp.com/feed.xml"></outline>
 		<outline type="rss" title="Alan Storm" xmlUrl="https://alanstorm.com/feed/feed.xml"></outline>
 		<outline type="rss" title="Ariya Hidayat" xmlUrl="https://ariya.io/index.xml"></outline>
