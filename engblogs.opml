@@ -582,5 +582,8 @@
 		<outline type="rss" title="Raptitude.com" xmlUrl="https://www.raptitude.com/feed/"></outline>
 		<outline type="rss" title="Max Woolf's Blog" xmlUrl="https://minimaxir.com/post/index.xml"></outline>
 		<outline type="rss" title="blag" xmlUrl="https://avi.im/blag/index.xml"></outline>
+		<outline type="rss" title="Eliran Turgeman" xmlUrl="https://www.16elt.com/atom.xml"></outline>
+		<outline type="rss" title="Hawk Ticehurst" xmlUrl="https://hawkticehurst.com/rss.xml"></outline>
+		<outline type="rss" title="Michał Górny" xmlUrl="https://blogs.gentoo.org/mgorny/feed/"></outline>
 	</body>
 </opml>
