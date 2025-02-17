@@ -265,7 +265,6 @@
 		<outline type="rss" title="Doximity" xmlUrl="https://engineering.doximity.com/feed"></outline>
 		<outline type="rss" title="Future Processing" xmlUrl="https://www.future-processing.pl/technical-blog/rss"></outline>
 		<outline type="rss" title="HubSpot" xmlUrl="https://product.hubspot.com/blog/rss.xml"></outline>
-		<outline type="rss" title="HackerEarth" xmlUrl="http://engineering.hackerearth.com/rss"></outline>
 		<outline type="rss" title="HomeAway" xmlUrl="https://medium.com/feed/homeaway-tech-blog"></outline>
 		<outline type="rss" title="Housing.com" xmlUrl="https://medium.com/feed/engineering-housing"></outline>
 		<outline type="rss" title="Dropbox" xmlUrl="https://dropbox.tech/feed"></outline>
@@ -569,7 +568,6 @@
 		<outline type="rss" title="Sam Rose" xmlUrl="https://samwho.dev/rss.xml"></outline>
 		<outline type="rss" title="Amazing CTO" xmlUrl="https://www.amazingcto.com/feed.xml"></outline>
 		<outline type="rss" title="Hillel Wayne" xmlUrl="https://www.hillelwayne.com/index.xml"></outline>
-		<outline type="rss" title="Jekyll" xmlUrl="https://thasso.xyz/feed"></outline>
 		<outline type="rss" title="Bessey's Blog" xmlUrl="https://bessey.dev/feed"></outline>
 		<outline type="rss" title="Luc van Donkersgoed" xmlUrl="https://lucvandonkersgoed.com/feed/"></outline>
 		<outline type="rss" title="Josh Comeau's blog" xmlUrl="https://www.joshwcomeau.com/rss.xml"></outline>
