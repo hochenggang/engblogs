@@ -585,5 +585,14 @@
 		<outline type="rss" title="Eliran Turgeman" xmlUrl="https://www.16elt.com/atom.xml"></outline>
 		<outline type="rss" title="Hawk Ticehurst" xmlUrl="https://hawkticehurst.com/rss.xml"></outline>
 		<outline type="rss" title="Michał Górny" xmlUrl="https://blogs.gentoo.org/mgorny/feed/"></outline>
+		<outline type="rss" title="Schneier on Security" xmlUrl="https://www.schneier.com/feed/"></outline>
+		<outline type="rss" title="React Blog" xmlUrl="https://react.dev/rss.xml"></outline>
+		<outline type="rss" title="Jon Udell" xmlUrl="https://blog.jonudell.net/feed/"></outline>
+		<outline type="rss" title="htmx" xmlUrl="https://htmx.org/atom.xml"></outline>
+		<outline type="rss" title="Jayesh Bhoot" xmlUrl="https://bhoot.dev/feed.xml"></outline>
+		<outline type="rss" title="This day's portion" xmlUrl="https://www.thisdaysportion.com/feed/index.xml"></outline>
+		<outline type="rss" title="kk.org/thetechnium" xmlUrl="https://kk.org/thetechnium/feed/"></outline>
+		<outline type="rss" title="Vale.Rocks" xmlUrl="https://vale.rocks/posts/feed.xml"></outline>
+		<outline type="rss" title="muratbuffalo" xmlUrl="https://muratbuffalo.blogspot.com/feeds/posts/default"></outline>
 	</body>
 </opml>
