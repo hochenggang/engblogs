@@ -594,5 +594,7 @@
 		<outline type="rss" title="kk.org/thetechnium" xmlUrl="https://kk.org/thetechnium/feed/"></outline>
 		<outline type="rss" title="Vale.Rocks" xmlUrl="https://vale.rocks/posts/feed.xml"></outline>
 		<outline type="rss" title="muratbuffalo" xmlUrl="https://muratbuffalo.blogspot.com/feeds/posts/default"></outline>
+		<outline type="rss" title="rauljordan" xmlUrl="https://rauljordan.com/atom.xml"></outline>
+		<outline type="rss" title="interjectedfuture" xmlUrl="https://interjectedfuture.com/rss/"></outline>
 	</body>
 </opml>
