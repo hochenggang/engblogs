@@ -596,5 +596,8 @@
 		<outline type="rss" title="muratbuffalo" xmlUrl="https://muratbuffalo.blogspot.com/feeds/posts/default"></outline>
 		<outline type="rss" title="rauljordan" xmlUrl="https://rauljordan.com/atom.xml"></outline>
 		<outline type="rss" title="interjectedfuture" xmlUrl="https://interjectedfuture.com/rss/"></outline>
+		<outline type="rss" title="Igor's Techno Club" xmlUrl="https://igorstechnoclub.com/feed/"></outline>
+		<outline type="rss" title="Nicolas Fränkel's blog" xmlUrl="https://blog.frankel.ch/feed.xml"></outline>
+		<outline type="rss" title="katafrakt’s garden" xmlUrl="https://katafrakt.me/feed.xml"></outline>
 	</body>
 </opml>
