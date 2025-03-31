@@ -599,5 +599,7 @@
 		<outline type="rss" title="Igor's Techno Club" xmlUrl="https://igorstechnoclub.com/feed/"></outline>
 		<outline type="rss" title="Nicolas Fränkel's blog" xmlUrl="https://blog.frankel.ch/feed.xml"></outline>
 		<outline type="rss" title="katafrakt’s garden" xmlUrl="https://katafrakt.me/feed.xml"></outline>
+		<outline type="rss" title="Tao of Mac" xmlUrl="https://taoofmac.com/atom.xml"></outline>
+		<outline type="rss" title="Anthony Fu" xmlUrl="https://antfu.me/feed.xml"></outline>
 	</body>
 </opml>
