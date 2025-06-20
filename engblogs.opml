@@ -294,7 +294,6 @@
 		<outline type="rss" title="Mixpanel" xmlUrl="https://engineering.mixpanel.com/feed/"></outline>
 		<outline type="rss" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS"></outline>
 		<outline type="rss" title="Medium" xmlUrl="https://medium.engineering/feed"></outline>
-		<outline type="rss" title="New York Times" xmlUrl="https://open.nytimes.com/feed"></outline>
 		<outline type="rss" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed"></outline>
 		<outline type="rss" title="Microsoft Python Engineering" xmlUrl="http://blogs.msdn.microsoft.com/pythonengineering/feed/"></outline>
 		<outline type="rss" title="Red Hat" xmlUrl="https://developers.redhat.com/blog/feed/atom/"></outline>
