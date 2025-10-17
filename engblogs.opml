@@ -600,5 +600,9 @@
 		<outline type="rss" title="katafrakt’s garden" xmlUrl="https://katafrakt.me/feed.xml"></outline>
 		<outline type="rss" title="Tao of Mac" xmlUrl="https://taoofmac.com/atom.xml"></outline>
 		<outline type="rss" title="Anthony Fu" xmlUrl="https://antfu.me/feed.xml"></outline>
+		<outline type="rss" title="Alex Edwards" xmlUrl="https://www.alexedwards.net/static/feed.rss"></outline>
+		<outline type="rss" title="Rob Bowley" xmlUrl="https://blog.robbowley.net/feed/"></outline>
+		<outline type="rss" title="sean goedecke" xmlUrl="https://www.seangoedecke.com/rss.xml"></outline>
+		<outline type="rss" title="pyrefly" xmlUrl="https://pyrefly.org/blog/atom.xml"></outline>
 	</body>
 </opml>
