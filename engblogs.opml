@@ -26,7 +26,6 @@
 		<outline type="rss" title="Raymond Chen" xmlUrl="https://devblogs.microsoft.com/oldnewthing/feed"></outline>
 		<outline type="rss" title="Ray Wenderlich" xmlUrl="https://www.raywenderlich.com/feed"></outline>
 		<outline type="rss" title="Radek Pazdera" xmlUrl="http://radek.io/rss"></outline>
-		<outline type="rss" title="Piotr Pasich" xmlUrl="http://piotrpasich.com/feed/"></outline>
 		<outline type="rss" title="Philipp Oppermann" xmlUrl="https://os.phil-opp.com/rss.xml"></outline>
 		<outline type="rss" title="Petr Mitrichev" xmlUrl="https://blog.mitrichev.ch/feeds/posts/default"></outline>
 		<outline type="rss" title="Peteris Krumins" xmlUrl="https://catonmat.net/feed"></outline>
@@ -50,7 +49,6 @@
 		<outline type="rss" title="Jeremy Kun" xmlUrl="https://www.jeremykun.com/index.xml"></outline>
 		<outline type="rss" title="Jeff Atwood" xmlUrl="https://blog.codinghorror.com/rss/"></outline>
 		<outline type="rss" title="Jan Lelis" xmlUrl="https://idiosyncratic-ruby.com/feed.xml"></outline>
-		<outline type="rss" title="James Long" xmlUrl="https://archive.jlongster.com/atom.xml"></outline>
 		<outline type="rss" title="Jake Wharton" xmlUrl="https://jakewharton.com/atom.xml"></outline>
 		<outline type="rss" title="Jake Trent" xmlUrl="https://jaketrent.com/post/feed.xml"></outline>
 		<outline type="rss" title="Ilya Grigorik" xmlUrl="https://ilya.grigorik.com/essays/rss/"></outline>
@@ -77,7 +75,6 @@
 		<outline type="rss" title="Bartlomiej Filipek" xmlUrl="https://www.cppstories.com/index.xml"></outline>
 		<outline type="rss" title="Axel Rauschmayer" xmlUrl="https://2ality.com/feeds/posts.atom"></outline>
 		<outline type="rss" title="Andrew Bancroft" xmlUrl="https://www.andrewcbancroft.com/index.xml"></outline>
-		<outline type="rss" title="Anders Aarvik" xmlUrl="http://aarvik.dk/rss/index.html"></outline>
 		<outline type="rss" title="Alan Storm" xmlUrl="https://alanastorm.com/feed/feed.xml"></outline>
 		<outline type="rss" title="0xADADA" xmlUrl="https://0xadada.pub/rss.xml"></outline>
 		<outline type="rss" title="Zendesk" xmlUrl="https://zendesk.engineering/feed"></outline>
@@ -125,7 +122,6 @@
 		<outline type="rss" title="Nvidia" xmlUrl="https://blogs.nvidia.com/feed/"></outline>
 		<outline type="rss" title="NPR Apps" xmlUrl="https://blog.apps.npr.org/atom.xml"></outline>
 		<outline type="rss" title="Novoda" xmlUrl="https://www.novoda.com/blog/rss"></outline>
-		<outline type="rss" title="Netflix" xmlUrl="https://netflixtechblog.com/feed"></outline>
 		<outline type="rss" title="Mozilla Release Engineering" xmlUrl="https://planet.mozilla.org/releng/rss20.xml"></outline>
 		<outline type="rss" title="Microsoft Python Engineering" xmlUrl="https://devblogs.microsoft.com/python/feed/"></outline>
 		<outline type="rss" title="Mesosphere" xmlUrl="https://d2iq.com/feed"></outline>
@@ -155,7 +151,6 @@
 		<outline type="rss" title="Deliveroo" xmlUrl="https://deliveroo.engineering/feed.xml"></outline>
 		<outline type="rss" title="Databricks" xmlUrl="https://www.databricks.com/feed"></outline>
 		<outline type="rss" title="Criteo" xmlUrl="https://medium.com/feed/criteo-engineering"></outline>
-		<outline type="rss" title="Credit Karma" xmlUrl="https://engineering.creditkarma.com/feed"></outline>
 		<outline type="rss" title="Confluent" xmlUrl="https://www.confluent.io/rss.xml"></outline>
 		<outline type="rss" title="Codeship" xmlUrl="https://blog.codeship.com/blog/feed/"></outline>
 		<outline type="rss" title="CodeName One" xmlUrl="https://www.codenameone.com/feed"></outline>
@@ -207,22 +202,19 @@
 		<outline type="rss" title="Auth0" xmlUrl="https://auth0.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Capgemini" xmlUrl="https://capgemini.github.io/feed.xml"></outline>
 		<outline type="rss" title="AWS" xmlUrl="https://aws.amazon.com/blogs/aws/feed/"></outline>
-		<outline type="rss" title="500px" xmlUrl="https://developers.500px.com/feed"></outline>
 		<outline type="rss" title="Blender" xmlUrl="https://code.blender.org/rss"></outline>
 		<outline type="rss" title="CodeName One" xmlUrl="http://www.codenameone.com/feed.xml"></outline>
 		<outline type="rss" title="CleverTap" xmlUrl="https://clevertap.com/blog/tag/engineering/feed/"></outline>
 		<outline type="rss" title="Bandcamp" xmlUrl="https://bandcamptech.wordpress.com/feed/"></outline>
 		<outline type="rss" title="Affinity" xmlUrl="https://build.affinity.co/feed"></outline>
 		<outline type="rss" title="BenefitFocus" xmlUrl="https://www.benefitfocus.com/rss.xml"></outline>
-		<outline type="rss" title="Codemancers" xmlUrl="https://crypt.codemancers.com/index.xml"></outline>
+		<outline type="rss" title="Codemancers" xmlUrl="https://codemancers.com/rss.xml"></outline>
 		<outline type="rss" title="Code Better" xmlUrl="http://feeds.feedburner.com/CodeBetter"></outline>
 		<outline type="rss" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss/"></outline>
 		<outline type="rss" title="Bitly" xmlUrl="https://word.bitly.com/rss"></outline>
 		<outline type="rss" title="Confluent" xmlUrl="https://www.confluent.io/feed/"></outline>
 		<outline type="rss" title="Buzzfeed" xmlUrl="https://tech.buzzfeed.com/feed"></outline>
 		<outline type="rss" title="Curalate" xmlUrl="http://engineering.curalate.com/feed.xml"></outline>
-		<outline type="rss" title="Brandwatch" xmlUrl="https://engineering.brandwatch.com/rss/"></outline>
-		<outline type="rss" title="Benchling" xmlUrl="https://benchling.engineering/feed"></outline>
 		<outline type="rss" title="Coolblue" xmlUrl="https://devblog.coolblue.nl/feed/"></outline>
 		<outline type="rss" title="eFounders" xmlUrl="https://medium.com/feed/unexpected-token"></outline>
 		<outline type="rss" title="Elastic" xmlUrl="https://www.elastic.co/blog/feed"></outline>
@@ -231,11 +223,9 @@
 		<outline type="rss" title="Chef" xmlUrl="https://blog.chef.io/rss"></outline>
 		<outline type="rss" title="AdRoll" xmlUrl="http://tech.adroll.com/feed.xml"></outline>
 		<outline type="rss" title="Envato" xmlUrl="https://webuild.envato.com/atom.xml"></outline>
-		<outline type="rss" title="Crowdfire" xmlUrl="https://crowdfire.engineering/feed"></outline>
 		<outline type="rss" title="Codeship" xmlUrl="http://blog.codeship.com/feed/"></outline>
 		<outline type="rss" title="Databricks" xmlUrl="https://databricks.com/feed"></outline>
 		<outline type="rss" title="Badoo" xmlUrl="https://techblog.badoo.com/feed.xml"></outline>
-		<outline type="rss" title="Deezer" xmlUrl="https://deezer.io/feed"></outline>
 		<outline type="rss" title="Expedia" xmlUrl="https://medium.com/feed/expedia-group-tech"></outline>
 		<outline type="rss" title="Facebook AI Research" xmlUrl="https://engineering.fb.com/feed/"></outline>
 		<outline type="rss" title="Etsy" xmlUrl="https://codeascraft.com/feed/"></outline>
@@ -244,7 +234,6 @@
 		<outline type="rss" title="CSC - IT Center For Science - Cloud Team" xmlUrl="https://cloud.blog.csc.fi/feeds/posts/default"></outline>
 		<outline type="rss" title="Discord" xmlUrl="https://blog.discordapp.com/feed"></outline>
 		<outline type="rss" title="Facebook" xmlUrl="https://code.fb.com/feed/"></outline>
-		<outline type="rss" title="Envoy" xmlUrl="https://envoy.engineering/feed"></outline>
 		<outline type="rss" title="Flipboard" xmlUrl="http://engineering.flipboard.com/feed.xml"></outline>
 		<outline type="rss" title="Evernote" xmlUrl="https://evernote.com/blog/feed/"></outline>
 		<outline type="rss" title="Drivy" xmlUrl="https://drivy.engineering/feed.xml"></outline>
@@ -259,7 +248,6 @@
 		<outline type="rss" title="HashiCorp" xmlUrl="https://www.hashicorp.com/blog/feed.xml"></outline>
 		<outline type="rss" title="Google Research" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg"></outline>
 		<outline type="rss" title="Grab" xmlUrl="http://engineering.grab.com/feed.xml"></outline>
-		<outline type="rss" title="Gusto" xmlUrl="https://engineering.gusto.com/rss/"></outline>
 		<outline type="rss" title="Guardian" xmlUrl="https://www.theguardian.com/info/series/digital-blog/rss"></outline>
 		<outline type="rss" title="Good Eggs" xmlUrl="https://team.goodeggs.com/feed"></outline>
 		<outline type="rss" title="Doximity" xmlUrl="https://engineering.doximity.com/feed"></outline>
@@ -280,7 +268,6 @@
 		<outline type="rss" title="Hashrocket" xmlUrl="https://hashrocket.com/blog.rss"></outline>
 		<outline type="rss" title="Localytics" xmlUrl="https://eng.localytics.com/rss/"></outline>
 		<outline type="rss" title="Intuit" xmlUrl="https://quickbooks-engineering.intuit.com/feed"></outline>
-		<outline type="rss" title="Jobandtalent" xmlUrl="https://jobandtalent.engineering/feed"></outline>
 		<outline type="rss" title="Netflix" xmlUrl="https://medium.com/feed/netflix-techblog"></outline>
 		<outline type="rss" title="Novoda" xmlUrl="https://blog.novoda.com/rss/"></outline>
 		<outline type="rss" title="Kickstarter" xmlUrl="https://kickstarter.engineering/feed"></outline>
@@ -288,13 +275,11 @@
 		<outline type="rss" title="OCTO Technology" xmlUrl="https://blog.octo.com/en/feed/"></outline>
 		<outline type="rss" title="Okta" xmlUrl="https://developer.okta.com/feed.xml"></outline>
 		<outline type="rss" title="Jane Street" xmlUrl="https://blogs.janestreet.com/feed.xml"></outline>
-		<outline type="rss" title="Lyft" xmlUrl="https://eng.lyft.com/feed"></outline>
 		<outline type="rss" title="Latacora" xmlUrl="https://latacora.micro.blog/feed.xml"></outline>
 		<outline type="rss" title="Mozilla Automation" xmlUrl="http://planet.mozilla.org/ateam/rss20.xml"></outline>
 		<outline type="rss" title="Mixpanel" xmlUrl="https://engineering.mixpanel.com/feed/"></outline>
 		<outline type="rss" title="Kogan.com" xmlUrl="https://devblog.kogan.com/blog?format=RSS"></outline>
 		<outline type="rss" title="Medium" xmlUrl="https://medium.engineering/feed"></outline>
-		<outline type="rss" title="Nextdoor" xmlUrl="https://engblog.nextdoor.com/feed"></outline>
 		<outline type="rss" title="Microsoft Python Engineering" xmlUrl="http://blogs.msdn.microsoft.com/pythonengineering/feed/"></outline>
 		<outline type="rss" title="Red Hat" xmlUrl="https://developers.redhat.com/blog/feed/atom/"></outline>
 		<outline type="rss" title="Pusher" xmlUrl="https://making.pusher.com/feed.xml"></outline>
@@ -312,7 +297,6 @@
 		<outline type="rss" title="OpenDNS" xmlUrl="https://umbrella.cisco.com/blog/feed/"></outline>
 		<outline type="rss" title="SurveyMonkey" xmlUrl="https://www.surveymonkey.com/feed/"></outline>
 		<outline type="rss" title="REA Group" xmlUrl="https://www.rea-group.com/category/tech/feed/"></outline>
-		<outline type="rss" title="Prezi" xmlUrl="https://engineering.prezi.com/feed"></outline>
 		<outline type="rss" title="Salesforce" xmlUrl="https://developer.salesforce.com/blogs/feed"></outline>
 		<outline type="rss" title="Mesosphere" xmlUrl="https://mesosphere.com/feed/"></outline>
 		<outline type="rss" title="Thoughtbot" xmlUrl="https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"></outline>
@@ -328,7 +312,6 @@
 		<outline type="rss" title="theScore" xmlUrl="http://techblog.thescore.com/feed.xml"></outline>
 		<outline type="rss" title="Trivago" xmlUrl="https://tech.trivago.com/index.xml"></outline>
 		<outline type="rss" title="ThoughtWorks" xmlUrl="https://www.thoughtworks.com/rss/insights.xml"></outline>
-		<outline type="rss" title="Swiggy" xmlUrl="https://bytes.swiggy.com/feed"></outline>
 		<outline type="rss" title="Vinted" xmlUrl="http://engineering.vinted.com//atom.xml"></outline>
 		<outline type="rss" title="MongoDB" xmlUrl="https://engineering.mongodb.com/post?format=RSS"></outline>
 		<outline type="rss" title="Twitch" xmlUrl="https://medium.com/feed/twitch-news/tagged/engineering"></outline>
@@ -348,7 +331,6 @@
 		<outline type="rss" title="Wingify" xmlUrl="http://engineering.wingify.com/atom.xml"></outline>
 		<outline type="rss" title="Yahoo" xmlUrl="https://yahooeng.tumblr.com/rss"></outline>
 		<outline type="rss" title="Andrew Brampton" xmlUrl="https://blog.bramp.net/index.xml"></outline>
-		<outline type="rss" title="WePay" xmlUrl="https://wecode.wepay.com/feed.xml"></outline>
 		<outline type="rss" title="Allison Kaptur" xmlUrl="http://akaptur.com/atom.xml"></outline>
 		<outline type="rss" title="Alex Russell" xmlUrl="https://infrequently.org/feed/"></outline>
 		<outline type="rss" title="Axel Rauschmayer" xmlUrl="http://feeds.feedburner.com/2ality"></outline>
@@ -367,9 +349,7 @@
 		<outline type="rss" title="Brendan Eich" xmlUrl="https://brendaneich.com/feed/"></outline>
 		<outline type="rss" title="Antirez" xmlUrl="http://antirez.com/rss"></outline>
 		<outline type="rss" title="Stackshare" xmlUrl="https://stackshare.io/featured-posts.atom"></outline>
-		<outline type="rss" title="Clay McLeod" xmlUrl="http://blog.claymcleod.io/atom.xml"></outline>
 		<outline type="rss" title="Daily Tech Video" xmlUrl="http://dailytechvideo.com/feed/"></outline>
-		<outline type="rss" title="Chien Tran" xmlUrl="http://thelazylog.com/rss/"></outline>
 		<outline type="rss" title="Thumbtack" xmlUrl="https://www.thumbtack.com/engineering/feed/"></outline>
 		<outline type="rss" title="Abhinaba Basu" xmlUrl="https://blogs.msdn.microsoft.com/abhinaba/feed/"></outline>
 		<outline type="rss" title="Bohops" xmlUrl="https://bohops.com/feed/"></outline>
@@ -379,10 +359,8 @@
 		<outline type="rss" title="Brendan Gregg" xmlUrl="http://www.brendangregg.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Dereuromark" xmlUrl="https://www.dereuromark.de/feed/"></outline>
 		<outline type="rss" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml"></outline>
-		<outline type="rss" title="Blake Erickson" xmlUrl="https://blog.blakeerickson.com/feed.xml"></outline>
 		<outline type="rss" title="Eddie Smith" xmlUrl="http://www.practicallyefficient.com/feed.xml"></outline>
 		<outline type="rss" title="Domenico Luciani" xmlUrl="https://domenicoluciani.com/feed.xml"></outline>
-		<outline type="rss" title="Andrew Ray" xmlUrl="http://blog.andrewray.me/rss/"></outline>
 		<outline type="rss" title="Dennis Yurichev" xmlUrl="https://yurichev.com/blog/rss.xml"></outline>
 		<outline type="rss" title="Edward Faulkner" xmlUrl="https://eaf4.com/rss"></outline>
 		<outline type="rss" title="Filippo Valsorda" xmlUrl="https://blog.filippo.io/rss/"></outline>
@@ -413,7 +391,6 @@
 		<outline type="rss" title="Jacopo Tarantino" xmlUrl="https://jack.ofspades.com/rss/index.html"></outline>
 		<outline type="rss" title="Jamis Buck" xmlUrl="http://feeds.feedburner.com/buckblog"></outline>
 		<outline type="rss" title="Eli Bendersky" xmlUrl="https://eli.thegreenplace.net/feeds/all.atom.xml"></outline>
-		<outline type="rss" title="Guilherme Rodrigues" xmlUrl="https://firstdoit.com/feed"></outline>
 		<outline type="rss" title="Jessie Frazelle" xmlUrl="https://blog.jessfraz.com/index.xml"></outline>
 		<outline type="rss" title="Henrik Warne" xmlUrl="https://henrikwarne.com/feed/"></outline>
 		<outline type="rss" title="David Walsh" xmlUrl="https://davidwalsh.name/feed/atom"></outline>
@@ -469,7 +446,7 @@
 		<outline type="rss" title="Peter Norvig" xmlUrl="http://www.norvig.com/rss-feed.xml"></outline>
 		<outline type="rss" title="CodeFX" xmlUrl="http://blog.codefx.org/feed/"></outline>
 		<outline type="rss" title="Oona Räisänen" xmlUrl="http://www.windytan.com/feeds/posts/default"></outline>
-		<outline type="rss" title="Peter Steinberger" xmlUrl="http://petersteinberger.com/atom.xml"></outline>
+		<outline type="rss" title="Peter Steinberger" xmlUrl="https://steipete.me/rss.xml"></outline>
 		<outline type="rss" title="Kyle Kingsbury" xmlUrl="https://aphyr.com/posts.atom"></outline>
 		<outline type="rss" title="Paul Irish" xmlUrl="https://feeds.feedburner.com/paul-irish"></outline>
 		<outline type="rss" title="Pamela Fox" xmlUrl="http://blog.pamelafox.org/feeds/posts/default"></outline>
@@ -554,7 +531,6 @@
 		<outline type="rss" title="Last9" xmlUrl="https://last9.io/rss.xml"></outline>
 		<outline type="rss" title="Jason Polak" xmlUrl="https://medium.com/feed/@jpolak"></outline>
 		<outline type="rss" title="Md Faizan Alam" xmlUrl="https://medium.com/feed/@faizan711"></outline>
-		<outline type="rss" title="Tommi Hovi" xmlUrl="https://tommihovi.com/feed/"></outline>
 		<outline type="rss" title="Maciej Walkowiak" xmlUrl="https://maciejwalkowiak.com/rss.xml"></outline>
 		<outline type="rss" title="Ben Hoyt" xmlUrl="https://benhoyt.com/writings/rss.xml"></outline>
 		<outline type="rss" title="The Roots of Progress" xmlUrl="https://blog.rootsofprogress.org/feed.xml"></outline>
@@ -581,7 +557,6 @@
 		<outline type="rss" title="Raptitude.com" xmlUrl="https://www.raptitude.com/feed/"></outline>
 		<outline type="rss" title="Max Woolf's Blog" xmlUrl="https://minimaxir.com/post/index.xml"></outline>
 		<outline type="rss" title="blag" xmlUrl="https://avi.im/blag/index.xml"></outline>
-		<outline type="rss" title="Eliran Turgeman" xmlUrl="https://www.16elt.com/atom.xml"></outline>
 		<outline type="rss" title="Hawk Ticehurst" xmlUrl="https://hawkticehurst.com/rss.xml"></outline>
 		<outline type="rss" title="Michał Górny" xmlUrl="https://blogs.gentoo.org/mgorny/feed/"></outline>
 		<outline type="rss" title="Schneier on Security" xmlUrl="https://www.schneier.com/feed/"></outline>
@@ -604,5 +579,8 @@
 		<outline type="rss" title="Rob Bowley" xmlUrl="https://blog.robbowley.net/feed/"></outline>
 		<outline type="rss" title="sean goedecke" xmlUrl="https://www.seangoedecke.com/rss.xml"></outline>
 		<outline type="rss" title="pyrefly" xmlUrl="https://pyrefly.org/blog/atom.xml"></outline>
+		<outline type="rss" title="Bloomberg JS Blog" xmlUrl="https://bloomberg.github.io/js-blog/feed.xml"></outline>
+		<outline type="rss" title="Rob Zolkos" xmlUrl="https://www.zolkos.com/feed.xml"></outline>
+		<outline type="rss" title="Probably Dance" xmlUrl="https://probablydance.com/feed/"></outline>
 	</body>
 </opml>
